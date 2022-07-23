@@ -1,1 +1,1 @@
-# cybersecurity-dns
+# Domain Name Service (DNS)
